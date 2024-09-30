@@ -30,6 +30,35 @@
 
 ```bash
 $ npm install
+
+#Para Tienda
+$ npm i --save class-validator class-transformer
+$ npm i --save @nestjs/typeorm typeorm pg
+$ npm i --save @nestjs/swagger swagger-ui-express
+$ npm i --save @nestjs/jwt jwt
+$ npm install @nestjs/config --save
+$ npm install dotenv --save
+$ npm install image type --save
+$ npm install bcrypt
+$ npm install @types/bcrypt --save-dev
+$ npm install @nestjs/jwt @nestjs/passport passport passport-jwt
+$ npm install @types/passport-jwt --save-dev
+$ npm i --save @nestjs/microservices
+
+
+#Para Notificaciones
+$ npm install @nestjs/config --save
+$ npm install dotenv --save
+$ npm i --save @nestjs/microservices
+$ npm install nodemailer --save
+
+
+#Para Facturacion
+$ npm install @nestjs/config --save
+$ npm install dotenv --save
+$ npm i --save @nestjs/microservices
+$ npm install pdfkit --save
+
 ```
 
 ## Compile and run the project
